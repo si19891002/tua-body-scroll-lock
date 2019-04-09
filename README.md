@@ -41,3 +41,7 @@ unlock()
 [测试链接](https://tuateam.github.io/tua-body-scroll-lock)
 
 ![bodyScrollLock](./tua-bsl.png)
+
+
+## 掘金
+https://juejin.im/post/5ca4816e5188250b251e34e9?utm_source=gold_browser_extension
